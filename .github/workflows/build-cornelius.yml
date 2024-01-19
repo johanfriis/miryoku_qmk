@@ -8,7 +8,7 @@ jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["crkbd"]'
+      keyboard: '["foostan/cornelius"]'
       alphas: '["colemak"]'
       nav: '["vi"]'
       clipboard: '["mac"]'

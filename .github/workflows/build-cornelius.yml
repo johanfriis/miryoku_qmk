@@ -12,3 +12,4 @@ jobs:
       alphas: '["colemak"]'
       nav: '["vi"]'
       clipboard: '["mac"]'
+      rules: '["FORCE_LAYOUT=ortho_4x12"]'
